@@ -9,8 +9,8 @@
 .lia.cache
 csdp.cache
 lia.cache
-Makefile.coq
-Makefile.coq.conf
-.Makefile.coq.d
+Makefile.rocq
+Makefile.rocq.conf
+.Makefile.rocq.d
 .coq-html.mk
 html/*
